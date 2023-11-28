@@ -372,6 +372,73 @@ TOKENS = {
       },
       "sourceDecimals": 5
     },
+      "PYTH": {
+      "symbol": "PYTH",
+      "name": "Pyth Network (Portal)",
+      "sourceAddress": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "coingeckoId": "pyth-network",
+      "logo": "TBC",
+      "markets": {
+      },
+      "destinations": {
+        "eth": {
+          "address": "0xeFc0CED4B3D536103e76a1c4c74F0385C8F4Bdd3",
+          "decimals": 6
+        },
+        "arbitrum": {
+          "address": "0xE4D5c6aE46ADFAF04313081e8C0052A30b6Dd724",
+          "decimals": 6
+        },
+        "optimism": {
+          "address": "0x99C59ACeBFEF3BBFB7129DC90D1a11DB0E91187f",
+          "decimals": 6
+        },
+        "fantom": {
+          "address": "0x77ad3B2dA29FBd208F12c3C701E969F4422aAD79",
+          "decimals": 6
+        },
+        "base": {
+          "address": "0x4c5d8A75F3762c1561D96f177694f67378705E98",
+          "decimals": 6
+        },        
+        "bsc": {
+          "address": "0xb0188B0bb2cD4a6D2744637fC83C94a284B247Da",
+          "decimals": 6
+        },
+        "matic": {
+          "address": "0xFa4B761A1e07909Ba31331a5dfa12390E3ff5583",
+          "decimals": 6
+        },        
+        "avalanche": {
+          "address": "0x8A0691e602B7a5FCc51a27E4a08376dE50889B42",
+          "decimals": 6
+        },        
+        "manta": {
+          "address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+          "decimals": 6
+        },        
+        "aptos": {
+          "address": "0x770211b47954e15bec1a4271bf33bacebc2d2adb43b7dc1ca45efa787615dd4c",
+          "decimals": 6
+        },        
+        "sui": {
+          "address": "0x9c6d76eb273e6b5ba2ec8d708b7fa336a5531f6be59f326b5be8d4d8b12348a4",
+          "decimals": 6
+        },        
+        "injective": {
+          "address": "inj1tjcf9497fwmrnk22jfu5hsdq82qshga54ajvzy",
+          "decimals": 6
+        },  
+        "sei": {
+          "address": "sei1cl90kjpf6wnfa9vvynmqva6vpy7xv3u84e6fkx96tx89axsf3gcq2vuync",
+          "decimals": 6
+        },        
+        "near": {
+          "address": "21.contract.portalbridge.near",
+          "decimals": 6
+        }
+      },
+      "sourceDecimals": 6
   },
   #####################
   # 2. Ethereum native
